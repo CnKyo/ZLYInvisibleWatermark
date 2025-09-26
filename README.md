@@ -5,7 +5,7 @@
 
 #### Software Architecture
 Software architecture description
-1232221fomo@@fyinformation=cc@@hansheng
+1232221fomo@@@@hansheng
 
 #### Installation
 
